@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0c63d09e-6cbc-4757-9790-b554efe8c2dc)# Network_Design_Binus_Syahdan
+![image](https://github.com/user-attachments/assets/0c63d09e-6cbc-4757-9790-b554efe8c2dc)
 
 Network Design for Syahdan Campus - BINUS University
 
