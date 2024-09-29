@@ -1,6 +1,4 @@
-![image](https://github.com/user-attachments/assets/0c63d09e-6cbc-4757-9790-b554efe8c2dc)
-
-Network Design for Syahdan Campus - BINUS University
+## Network Design for Syahdan Campus - BINUS University
 
 ## Overview
 This project is a comprehensive network design for the ground floor - 2nd floor Syahdan Campus of BINUS University. Each floor represented by individual LANs with connections established through routers and switches. The design integrates wired and wireless networks to ensure efficient data flow and security across the campus.
